@@ -17,14 +17,16 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "ONYX Club Genève | Club de Sport & Bien-être d'Exception au bord du Lac",
-  description: "Le seul club de fitness et bien-être privé à Genève face au lac. Pilates Reformer, Yoga, HIIT, coaching privé sur mesure dans un cadre d'exception à Cologny.",
-  keywords: ["ONYX Club", "Salle de sport luxe Genève", "Cologny fitness", "Pilates Reformer Genève", "Yoga Lac Léman", "Personal trainer Genève"],
+  title: "ONYX CLUB (onyxclub.ch) | Sport · Lifestyle · Zen, sur le Lac Léman | Cologny",
+  description: "ONYX CLUB à Cologny (Genève) : Sport, Lifestyle & Zen sur le Lac Léman. Coaching privé, Boxe, Yoga, Pilates, Personal Training, Développement personnel.",
+  keywords: ["ONYX CLUB", "onyxclub.ch", "Cologny fitness", "Boxe Genève", "Yoga Lac Léman", "Personal Training Cologny", "Coaching mental Genève"],
   openGraph: {
-    title: "ONYX Club Genève — Fitness & Wellness Privé",
-    description: "L'art du mouvement et de l'exclusivité face au Lac Léman.",
-    type: "website",
+    title: "ONYX CLUB — Sport · Lifestyle · Zen, sur le Lac Léman",
+    description: "Stronger Happier You · Bougez. Respirez. Évoluez. · Cologny, Genève.",
+    url: "https://onyxclub.ch",
+    siteName: "ONYX CLUB",
     locale: "fr_CH",
+    type: "website",
   },
 };
 
